@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikramsalarzai
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Vuejs
+- 🌱 I’m currently working with Laravel/React
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me I am usign youtube and other site for learning 
 
